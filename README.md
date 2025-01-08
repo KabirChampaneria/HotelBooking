@@ -1,9 +1,8 @@
 # Hotel Booking Platform
 
-Welcome to my Hotel Booking Web Application project, this is a modern, user-friendly platform designed to simplify the process of booking hotel accommodations. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+Welcome to our Hotel Booking Web Application project. We have created a modern, user-friendly platform designed to simplify the process of booking hotels with ease. we have built this project using the MERN (MongoDB, Express.js, React.js, Node.js) Stack Technologies of javascript.
 ---
-
-## Objective
+# Objective
 
 - Develop a user-friendly platform for booking hotel rooms online.
 
