@@ -12,7 +12,7 @@ Welcome to our Hotel Booking Web Application project. We have created a modern, 
 
 - Offer an administrative interface for managing data of users, bookings and hotels with ease.
 
-- offer a user interface for managing user profile and bookings.
+- Offer a user interface for managing user profile and bookings.
 
 # Features
 ## User Features
